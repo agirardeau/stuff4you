@@ -1,3 +1,5 @@
 # You can have this stuff!
 
-Index page: https://agirardeau.github.io/stuff4you/index.html
+Index: <https://agirardeau.github.io/stuff4you/index.html>
+
+- <https://agirardeau.github.io/stuff4you/omni-zouk-index.html>
