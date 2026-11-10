@@ -1,1 +1,2 @@
 - <https://agirardeau.github.io/stuff4you/omni-zouk-index.html>
+- <https://agirardeau.github.io/stuff4you/second-thought.html>
